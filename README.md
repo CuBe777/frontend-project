@@ -1,6 +1,6 @@
 #  My Frontend Project
 
-This is a frontend application built using **React**. It allows users to [briefly describe your app's functionality, e.g., manage tasks, view reports, etc.].
+This is a frontend application built using **React**.
 
 ---
 
