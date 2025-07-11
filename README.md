@@ -18,11 +18,11 @@ Need to install node.js, check node version once installed using node -version o
 
 Once the project is open, go to the project directory and do an npm install.
 
-###4. Start the development server
+### 4. Start the development server
 
 Once installation is done, do npm start.
 
-###5. See the UI
+### 5. See the UI
 
 You can navigate to localhost:3000 to see the UI
 
