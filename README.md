@@ -8,7 +8,7 @@ This is a frontend application built using **React**.
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/frontend-project.git
+git clone https://github.com/CuBe777/frontend-project
 
 ### 2. Installation
 
